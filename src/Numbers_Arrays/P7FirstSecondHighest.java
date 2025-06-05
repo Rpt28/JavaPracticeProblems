@@ -1,4 +1,4 @@
-package numbers;
+package Numbers_Arrays;
 
 public class P7FirstSecondHighest {
 

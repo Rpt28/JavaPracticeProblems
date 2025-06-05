@@ -1,4 +1,4 @@
-package string;
+package Strings;
 public class UniqueStringChar {
 
 	public static void main(String[] args) {

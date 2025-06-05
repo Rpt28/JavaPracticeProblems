@@ -1,4 +1,4 @@
-package numbers;
+package Numbers_Arrays;
 
 public class P3SmallestLargest {
 	public static void main(String[] args) {

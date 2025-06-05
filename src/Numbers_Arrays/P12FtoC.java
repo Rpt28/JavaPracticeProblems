@@ -1,4 +1,4 @@
-package numbers;
+package Numbers_Arrays;
 import java.util.*;
 public class P12FtoC {
 

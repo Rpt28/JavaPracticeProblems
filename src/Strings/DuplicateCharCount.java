@@ -1,4 +1,4 @@
-package string;
+package Strings;
 public class DuplicateCharCount {
 	public static void main(String[] args) {
 		String s1 = "abcabcd";

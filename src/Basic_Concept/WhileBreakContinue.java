@@ -1,4 +1,4 @@
-package basic;
+package Basic_Concept;
 import java.util.Scanner;
 
 public class WhileBreakContinue {

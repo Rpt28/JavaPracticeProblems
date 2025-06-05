@@ -1,6 +1,6 @@
-package string;
+package Strings;
 
-public class Alphabets {
+public class P2Alphabets {
 
 	public static void main(String[] args) {
 		char ch;

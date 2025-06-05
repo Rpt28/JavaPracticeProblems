@@ -1,4 +1,4 @@
-package pattern;
+package Patterns;
 public class AlphabetPattern1 {
 
 	public static void main(String[] args) {

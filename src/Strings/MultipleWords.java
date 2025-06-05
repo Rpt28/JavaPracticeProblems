@@ -1,4 +1,4 @@
-package string;
+package Strings;
 
 public class MultipleWords {
 
